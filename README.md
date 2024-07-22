@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student pursuing Computer Science and Engineering<br>👯 I’m looking to collaborate on Web development projects<br>🤝 I’m looking for help with Java script and its frameworks<br>🌱 I’m currently learning machine learning also<br>💬 Ask me about python<br>⚡ Fun fact: I am lazy but smart
+🔭 I’m currently a student pursuing Computer Science and Engineering<br>👯 I’m looking to collaborate on Web development projects<br>🤝 I’m looking for help with Java script and its frameworks<br>🌱 I’m currently learning machine learning also<br>💬 Ask me about python<br>
 
 
 # 💻 Tech Stack:
