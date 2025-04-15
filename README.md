@@ -18,17 +18,20 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbiAyshwariya&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=AbiAyshwariya&theme=radical&hide_border=true&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiAyshwariya&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AbiAyshwariya&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiAyshwariya&theme=radical&hide_border=true&layout=compact)
+
+---
 
 ## 📈 Total Contributions Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbiAyshwariya&theme=radical)
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Contribution Graph (All-Time)
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbiAyshwariya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -44,5 +47,3 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=AbiAyshwariya&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
