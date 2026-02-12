@@ -45,14 +45,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbiAyshwariya&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiayshwariya&" alt="abiayshwariya" /></p>
